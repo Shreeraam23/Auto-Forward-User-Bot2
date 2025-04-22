@@ -105,7 +105,7 @@ def setup_extra_handlers(woodcraft):
         `/listtargets` 
         ```🆔 View Target ID```
 
-        ```🖤⃝💔 𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭 🖤⃝💔```
+        ```🖤⃝💔 MYSERVER 🖤⃝💔```
         """
         await event.reply(help_text, parse_mode='md')
 
